@@ -37,8 +37,10 @@ Evinizde şefin dokunuşunu hissedin ve House Chef ile yaratıcılığınızı s
 * **Tahmin mantığı:** Takımdaki herkesin final haftası yoğunluğu olduğundan en az iş yükü bu sprinte verildi. Tamamlanması gereken puan toplam 78 puan olarak belirlendi. (2. sprintte tekrar gözden geçirilecek.)
 * **Daily Scrum:** Yukarıda da belirtildiği gibi bu sprint içinde takım üyelerinin okul yoğunluğundan dolayı daily scrum yapılmadı. Sprint ortasında zoom üzerinden yapılan toplantı notları, alınan kararlar ve **geçici** puanlama aşağıdadır.
   ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/556edfce-e40f-4ef5-9447-9760eabf1384)
-  ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/812db106-5ca0-4a6a-ba15-79db0cfee573) **NOT**: İlk sprintteki hedefimiz sonradan değiştirildi.
+  ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/812db106-5ca0-4a6a-ba15-79db0cfee573)
+  **NOT**: İlk sprintteki hedefimiz sonradan değiştirildi.
 * **Sprint board update:**
-![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/037521b2-4e77-43eb-9847-2243256078ab) **NOT:** Hata sebebiyle ana ekran oluşturulamadı.
+![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/037521b2-4e77-43eb-9847-2243256078ab)
+**NOT:** Hata sebebiyle ana ekran oluşturulamadı.
 * **Sprint Review & Retrospective:** Yoğunluk sebebiyle bu sprintte aktif olunamadı. Takım üyeleri birbirine çabuk uyum sağladı. Diğer sprintlerde daha aktif çalışılmalı.  
 
