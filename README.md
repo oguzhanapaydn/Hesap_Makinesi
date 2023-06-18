@@ -8,7 +8,7 @@ Takım Flutter 112
 * Muratcan Öztürk
 * Oğuzhan Apaydın
 
-# Ürğn Bilgileri
+# Ürün Bilgileri
 ## Ürün İsmi
 House Chef
 
