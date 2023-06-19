@@ -39,6 +39,10 @@ Evinizde şefin dokunuşunu hissedin ve House Chef ile yaratıcılığınızı s
   ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/556edfce-e40f-4ef5-9447-9760eabf1384)
   ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/812db106-5ca0-4a6a-ba15-79db0cfee573)
   **NOT**: İlk sprintteki hedefimiz sonradan değiştirildi.
+* **Ürün Durumu:**
+![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/e82b550d-e363-46d4-aa02-3765fd441f06)
+
+
 * **Sprint board update:**
 ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/037521b2-4e77-43eb-9847-2243256078ab)
 **NOT:** Hata sebebiyle ana ekran oluşturulamadı.
