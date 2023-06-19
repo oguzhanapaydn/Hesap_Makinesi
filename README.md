@@ -41,8 +41,7 @@ Evinizde şefin dokunuşunu hissedin ve House Chef ile yaratıcılığınızı s
   **NOT**: İlk sprintteki hedefimiz sonradan değiştirildi.
 * **Ürün Durumu:**
 ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/e82b550d-e363-46d4-aa02-3765fd441f06)
-
-
+* **Sprint Notları:** Herkesin final haftası olduğu için görevleri Ece üstlendi. Süreç içerisinde geçici kararlar verildi. 2. sprintte yapılan ilk toplantıda kararlar gözden geçirilecek. Miro kullanılmaya başlandı. Takım miro board'da henüz toplanmadı. Davet gönderildi.
 * **Sprint board update:**
 ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/037521b2-4e77-43eb-9847-2243256078ab)
 **NOT:** Hata sebebiyle ana ekran oluşturulamadı.
