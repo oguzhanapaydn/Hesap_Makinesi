@@ -47,3 +47,16 @@ Evinizde şefin dokunuşunu hissedin ve House Chef ile yaratıcılığınızı s
 **NOT:** Hata sebebiyle ana ekran oluşturulamadı.
 * **Sprint Review & Retrospective:** Yoğunluk sebebiyle bu sprintte aktif olunamadı. Takım üyeleri birbirine çabuk uyum sağladı. Diğer sprintlerde daha aktif çalışılmalı.  
 
+# Sprint 2
+* **Tamamlanması tahmin edilen puan:** 32 puan
+* **Tahmin mantığı:** İlk başta ikinci sprint için bu karar verilmişti.
+* **Daily Scrum:**![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/2891a452-ae4c-448f-9e1b-28d08a7713a9)
+  ![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/7626af26-10d7-4463-82a5-7d51d8f69065)
+* **Ürün Durumu:**
+![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/73b52f76-7ee2-4f5f-baac-4b32440269b2)
+NOT: Emülatörde hata alındığı için desktop uygulaması olarak çalıştırıldı. Fakat ürün hesap makinesi uygulaması olarak değiştirildi.
+* **Sprint Notları:** Bayram ve ekibin bir kısmının finalleri sebebiyle uygulamaya yeterli ilgi gösterilemediği fark edildi. Ürün değiştirildi.
+* **Sprint board update:**
+![image](https://github.com/oguzhanapaydn/House-Chef/assets/108659778/e8c5b416-fd1c-489b-bef4-02bf5174351e)
+NOT: Ekip son sprintte hesap makinesi uygulamasını yetiştirmeye çalışacak.
+* **Sprint Review & Retrospective:** Bu sprint de ilk sprint gibi verimsiz geçti. Diğer sprintlerde daha aktif çalışılmalı. 
