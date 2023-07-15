@@ -10,7 +10,7 @@ Takım Flutter 112
 
 # Ürün Bilgileri
 ## Ürün İsmi
-House Chef
+Hesap Makinesi
 
 ## Product Backlog URL
 (https://miro.com/app/board/uXjVM9wp3OE=/?share_link_id=791024224424)
